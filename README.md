@@ -44,11 +44,17 @@ mathematical derivations and references.
 The project was designed to achieve the following goals:
 ```
 Understand GPT internals at algorithmic level
+
 Build Transformer architecture without ML frameworks
+
 Implement self-attention mathematically from scratch
+
 Create a lightweight educational LLM pipeline
+
 Explore optimization and sampling techniques
+
 Demonstrate progression from scalar autograd → vectorized Transformers
+
 Provide a reproducible research implementation for students and researchers
 ```
 ---
@@ -57,21 +63,37 @@ Provide a reproducible research implementation for students and researchers
 Implemented Components
 
 ✅ Pure Python Autograd Engine
+
 ✅ Transformer Self-Attention
+
 ✅ Multi-Head Attention
+
 ✅ RMSNorm / LayerNorm
+
 ✅ Residual Connections
+
 ✅ Feed Forward Network (MLP)
+
 ✅ Adam Optimizer
+
 ✅ Gradient Clipping
+
 ✅ Dropout Regularization
+
 ✅ Temperature Sampling
+
 ✅ Top-k Sampling
+
 ✅ Nucleus (Top-p) Sampling
+
 ✅ Character-Level GPT
+
 ✅ Token-Level Chatbot
+
 ✅ NumPy Vectorized Training
+
 ✅ Model Checkpoint Saving/Loading
+
 ✅ Interactive Chat Interface
 ---
 
