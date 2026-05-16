@@ -1,0 +1,1 @@
+{"config": {"seq_len": 12, "embed_dim": 96, "lr": 0.003, "epochs": 400, "lr_decay": 0.985, "lr_min": 0.0005, "grad_clip": 1.0}, "step": 66344400}
