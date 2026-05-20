@@ -564,6 +564,14 @@ academic learning.
 
 Please cite appropriately if used in academic or research environments. Protected under MIT licensing.
 
+This research work has been submitted as a preprint on 
+
+Zenodo: https://zenodo.org/records/20302616
+
+OpenAIRE Explore: https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.20302616
+
+and sumitted on SPRINGER NATURE: https://www.editorialmanager.com/vico/default2.aspx ...........
+
 ## ⭐ Acknowledgements
 
 Inspired by:
